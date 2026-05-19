@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/opencode-schema.json",
+  "contextPaths": [
+    "AGENTS.md",
+    "docs/OPENCODE.md"
+  ],
+  "storage": {
+    "path": ".opencode"
+  }
+}
